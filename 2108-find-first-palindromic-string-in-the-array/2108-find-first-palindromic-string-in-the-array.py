@@ -4,16 +4,11 @@ class Solution(object):
         :type words: List[str]
         :rtype: str
         """
-        p=[]
-        for x in words:
-            np=[]
-            for y in x:
-                np.append(y)
-            np.reverse()
-            
-            if list(x) == np:
-                p.append("".join(x))
-        if len(p)==0:
-            return ""
-        else:
-            return p[0]             
+        res=""
+        for i in words:
+            a=i[::-1]
+            if  res == "":
+                if a == i:
+                    res=i
+        return res
+        

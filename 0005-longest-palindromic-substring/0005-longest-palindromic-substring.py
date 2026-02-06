@@ -1,10 +1,8 @@
 class Solution(object):
     def longestPalindrome(self, s):
         if len(s) == 0:
-            return ""
-    
+            return ""   
         longest = ""
-        
         for i in range(len(s)):
             for j in range(i, len(s)):
                 substring = s[i:j+1]

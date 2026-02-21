@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0283-move-zeroes) |
 | [0989-add-to-array-form-of-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |

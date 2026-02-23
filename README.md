@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0709-to-lower-case) |
+| [1903-largest-odd-number-in-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3110-score-of-a-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3110-score-of-a-string) |
 ## Simulation
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
